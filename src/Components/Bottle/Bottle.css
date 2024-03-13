@@ -1,0 +1,22 @@
+.bottle {
+    border: 2px solid seagreen;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bottle img {
+    width: 200px;
+}
+
+bottle-cart {
+    border: 2px solid yellow;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bottle-cart img {
+    width: 100px;
+    margin: 4px;
+}

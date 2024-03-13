@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "Rolex",
+    "model": "Submariner",
+    "movement": "Automatic",
+    "case_material": "Stainless Steel",
+    "water_resistance": "300 meters",
+    "price": "$10,000"
+  },
+  {
+    "brand": "Omega",
+    "model": "Speedmaster Professional Moonwatch",
+    "movement": "Manual",
+    "case_material": "Stainless Steel",
+    "water_resistance": "50 meters",
+    "price": "$5,000"
+  },
+  {
+    "brand": "Seiko",
+    "model": "SKX007",
+    "movement": "Automatic",
+    "case_material": "Stainless Steel",
+    "water_resistance": "200 meters",
+    "price": "$300"
+  },
+  {
+    "brand": "Tag Heuer",
+    "model": "Carrera Calibre Heuer 01",
+    "movement": "Automatic",
+    "case_material": "Titanium",
+    "water_resistance": "100 meters",
+    "price": "$4,000"
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock DW5600E-1V",
+    "movement": "Quartz",
+    "case_material": "Resin",
+    "water_resistance": "200 meters",
+    "price": "$50"
+  }
+]
